@@ -1,0 +1,36 @@
+.signup-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8rem;
+    text-align: center;
+    flex-direction: column;
+}
+.signup-card{
+    width: 25rem;
+    height: 27rem;
+    border: 1px solid #ccc;
+    padding: 1rem;
+}
+
+.imagesize{
+    width: 50vw;
+    height: 15vh;
+}
+
+.buttom-card{
+    width: 30rem;
+    border: 1px solid #ccc;
+    margin-top: 3rem;
+}
+
+.sinupbut{
+    margin-top: 1rem;
+}
+.tnc{
+    width: 25rem;
+    height: 10rem;
+    padding:1rem;
+    margin-bottom: 5rem;
+    color: grey;
+}
